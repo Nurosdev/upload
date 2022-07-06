@@ -3,17 +3,17 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"UNITY",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111-",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712-",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110-",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917-",
       "backup_native_ads_Admob_or_applovin":"",
       "backup_ads_banner":"Banner_Android",
       "backup_ads_intertitial":"Interstitial_Android",
       "backup_ads_rewards":"Rewarded_Android",
       "interval_intertitial": 0,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"4815443",
+      "initialize_sdk_backup_ads":"4828747",
       "survey_api_key":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -82,6 +82,87 @@
       "image":"file:///android_asset/bus3.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":"null"
+    },
+    {
+      "id": 8,
+      "category":"Bis",
+      "title":"Avante ES MOD",
+      "image":"https://1.bp.blogspot.com/-uq7mK3F2xZM/XFz96Fbtm4I/AAAAAAAADA4/_G29ZZNunl4MXF_AMnuFvOYI9N4yjWbfgCLcBGAs/s1600/Screenshot_2019-02-08-10-53-15-524_com.maleo.bussimulatorid.png",
+      "link_mods":"https://www.mediafire.com/file/skma4ytnog3b5ag/Avante_D2_ESMod023.bussidmod/file",
+      "link_livery":"null"
+    },
+    {
+      "id": 9,
+      "category":"Bis",
+      "title":"Bus Persib Full Strobo",
+      "image":"https://pbs.twimg.com/media/Ds71ZbVU0AA8CiF.jpg",
+      "link_mods":"https://www.mediafire.com/file/a8isjk2ztughfrg/SR2_ECE_R66_scania_ceper.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/jl6iv1k1ns29bg7/persib_bandung_by.angga.png/file"
+    },
+    {
+      "id": 10,
+      "category":"Bis",
+      "title":"PO. Haryanto SR2 NRS ECE R66 V3",
+      "image":"https://1.bp.blogspot.com/-WanwFuZ2gJI/YH48BYGKSGI/AAAAAAAAF_8/B8cJblw9CTk04PvDl4M_ygR36m-LOpKWQCNcBGAsYHQ/s560/PO.%2BHaryanto%2BSR2%2BNRS%2BECE%2BR66%2BV3.jpeg",
+      "link_mods":"https://www.mediafire.com/file/gzfr7lgvuz7isj9/final_sr2.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/w0mpwvt8lbd8wol/SR2_PO_HARYANTO.png/file"
+    },
+    {
+      "id": 11,
+      "category":"Bis",
+      "title":"Mod JB3+ SHD Hino RK",
+      "image":"https://i.ytimg.com/vi/L625dG4Acms/maxresdefault.jpg",
+      "link_mods":"https://www.mediafire.com/file/z5o6k8e4cg0tl4d/JB3%252B_SHD_HINO_RK.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/lxmtb2sqosixyqn/JB3_HINO_PINTU_TENGAH_-_STJ_VIOLA.png/file"
+    },
+    {
+      "id": 12,
+      "category":"Bis",
+      "title":"SDD 4 AXLE VOLVO",
+      "image":"https://1.bp.blogspot.com/-zfBTNWTjcd4/XQdicvBE0eI/AAAAAAAADW8/eLmvj-Pd4E4DMVQ0A2K_eDcEQZs8jZbWQCLcBGAs/s1600/mod%2Bbussid%2Bbus%2Bsdd%2B4axle%2Bby%2Bzilla%2Bwsp%2Bmods.jpeg",
+      "link_mods":"https://www.mediafire.com/file/1ffkm179n53wz38/JB2%252B_Sdd_4_Axle_Volvo_B11R.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/y64rvxoqnttdk1q/SUNBREAKER_NEW_STIKER_HM_012_UPDATE_JB3_MHD_1626_VOYAGER_BY_GARASITUBE.png/file"
+    },
+    {
+      "id": 13,
+      "category":"Bis",
+      "title":"ROSIN SSD Detail Full Lampu",
+      "image":"https://1.bp.blogspot.com/-slTzxTsqEgA/XWZL61cb0SI/AAAAAAAABME/OIot1_DoJzg_oSnNjArc9V79Kmxm0ZUPwCLcBGAs/s1600/mod_jb2%252B_super_double_decker_payoengi.com.jpeg",
+      "link_mods":"https://www.mediafire.com/file/5d5jklwgojthdb0/sdd3_voyager_winglet.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/8gkaesfr44hbhxq/Rosin_SDD_MDC_by_Blahbloh.png/file"
+    },
+    {
+      "id": 14,
+      "category":"Bis",
+      "title":"JB3 SHD Hino 44 Trans Strobo",
+      "image":"https://image.winudf.com/v2/image1/Y29tLm1vZGJvc21vZWRhLmJ1c3NpZGpldGJ1czNfc2NyZWVuXzBfMTU3NTQzMzY2MV8wMjU/screen-0.jpg?h=500&fakeurl=1&type=.jpg",
+      "link_mods":"https://www.mediafire.com/file/kdeszd3dud0uv9b/facelift.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/nafn0f0axndor8e/livery_44trans_jb3_Hino_update_FM_by_GTA_XD.png/file"
+    },
+    {
+      "id": 15,
+      "category":"Bis",
+      "title":"JB3+ SDD VOYAGER",
+      "image":"https://1.bp.blogspot.com/-GzKUAnF7NA8/X5_IMv-fEuI/AAAAAAAAECo/xXoe40I6FIgFV922a51el8oQI1q3i8c6wCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-11-02-15-26-01-656_com.maleo.bussimulatorid.jpg",
+      "link_mods":"https://www.mediafire.com/file/rcmnb2dwh34zoj7/JB3%252B_SDD_VOYAGER_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/sv5yzd58fq80irk/Pandawa_SDD_by_Blahbloh.png/file"
+    },
+    {
+      "id": 16,
+      "category":"Bis",
+      "title":"PO. HARYANTO JB2 FULL LED",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUvAE-t0pU0om91Pr37B16DfrAoFPd8Mx8C00lMQfEDHeLQzgU11e_pdHpJwD-9eZ8QJej6OPhm2VG2Wl2jsDZ2SkT9iqEcYP09MiPRAstaG4smeyEc2XuNEl1rfLXMQLHeRA7BqMLCN3Xb5-kP-lw_oJVskI4oEik4PCFYJDbpC4rfiPXHunEoM/s1600/JB2%20FULL%20LED%20HARYANTO.png",
+      "link_mods":"https://www.mediafire.com/file/1jafm711mrwxewx/JB2_FULL_LED_UPDATE_V1_CVT_ZoneID-1.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/a2vpwip0kd3m4iy/HR_The_King_jb2_ZTOM_X_MDC_by_Akbar_Click-picsay.png/file"
+    },
+    {
+      "id": 10,
+      "category":"Bis",
+      "title":"-",
+      "image":"-",
+      "link_mods":"-",
+      "link_livery":"null"
     }
+
   ]
 }
