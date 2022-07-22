@@ -1,0 +1,54 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"UNITY",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111-",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712-",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110-",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"Banner_Android",
+      "backup_ads_intertitial":"Interstitial_Android",
+      "backup_ads_rewards":"Rewarded_Android",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"4815443",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "DATA":
+  [
+    {
+      "id": 97,
+      "category":"Truk",
+      "title":"Canter Muat Kayu Tambang",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvfnKYta8sIdwkllkDmmn7y7ColWAuMsH0R4Rpp_dV_Z6BLEg7NJ6FgTv_eHX5ggBN6Ps3nlBSrz4vki25KI0k8fL41tFeVBEkdhiOTnqjZwp2ixMHab5Zs1zrqLVF3JtG6ax_rAgAXR1esFakLrx_QtbmyMxOwXB8tJyqj3nDlCn_gACipXoL5Os/s1600/Canter%20Muat%20Kayu%20Tambang.png",
+      "link_mods":"https://www.mediafire.com/file/rwdwow26qaympad/New_Stevani_Kayu.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/rn79g7upgxm9548/livery_new_stevanie_fam8os_by_RG_DESIGN.png/file"      
+    },
+	{
+      "id": 96,
+      "category":"Truk",
+      "title":"Black team Glowing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFDGhdMGdbAgiqOcAL5qZtXwQIMXmbvThUfEoG1WXRvKepxhDfeQ5KDIjoPGbbGlf6Yt77mU9gfxybrI89M9lBkKzCxcbT_mjxmJUGbLseC59DBWzuNvYy1zvWfSb8EgwCx3XdYvE8VIzSnGI4pffdBuWq51_3GQGlgrYc4KeZsk9kOpZ9bgJta8w/s1600/Black%20team%20Glowing.png",
+      "link_mods":"https://www.mediafire.com/file/ng5l46pcon8g5kc/GAYOR_FUL_BERAS_BLACK_TEAM_X_PLAY_KEMBAR.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/n2k9g1eh2fe1scg/LIVERY.png/file"      
+    },
+	{
+      "id": 95,
+      "category":"Truk",
+      "title":"Hino 500 Tronton Sumatra Style",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf0tMnKtdw9kVh1S-btsrkA_pZxDXj5_klM5oeKxhhIMDwvfTXFyyHYV6Y-Btfw4qEjRZhSH7oKEou7JVr8eYgfj3ZSlikuhqL-OHblbOH4LzHMcPHY5oP3nREwqb2l0rNk8jQ6d10zDPpadQrmiSOM03FnNqSvycL5xeimFcTF0cSFkzH7d9OyTE/s1600/Hino%20500%20Tronton%20Sumatera%20Style.png",
+      "link_mods":"https://www.mediafire.com/file/yd0qrk2i4bl2wfw/HINO_500_TRONTON_SUMATRA_SPION_SCANIA.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ah65rwip4g3uw1y/hino_hijau_no_dop.png/file"      
+    }
+  ]
+}
