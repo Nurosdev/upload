@@ -1,0 +1,63 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"UNITY",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111-",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712-",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110-",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917-",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"Banner_Android",
+      "backup_ads_intertitial":"Interstitial_Android",
+      "backup_ads_rewards":"Rewarded_Android",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"4858846",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "DATA":
+  [
+    {
+      "id": 100,
+      "category":"Truk",
+      "title":"NMR New Qinasih Bunglon",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBosHtN8LCMs8u3odcuSgl-lUI22TIcBWwk5gv9VSW_4EzWPFyNzzMQU0JWlEYn0w8PFOw-84i1U9aEQ1XFFN68pRU-MMH9UDwrMvTkGQ5SGRxzOQgATpuGXyiMXySJaL5a3WzIesWrRicPE249hm0GCjIA073OxxWCtoaAK8vD-qjE-qCyq8F9cA/s1600/NMR%20New%20Qinasih%20Bunglon.png",
+      "link_mods":"https://www.mediafire.com/file/wwwl0hld41f31ie/NMR_QINASIH_BUNGLON.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/k11jdkp8hae0wx5/QINASIH_BUNGLON_TERPAL_SEGI3.png/file"      
+    },
+	{
+      "id": 99,
+      "category":"Truk",
+      "title":"Fuso Tronton Padang",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOFtq7zUuUJFzcEt7tPTepgO89Lm7ks8PG51OkVbXeCrc3Fr28WiGE6XZ9xjLjHzOM1ec1ergXdHEpcrDVCpN0kqWWZIhlUFRbmVYSLEUrKdCsqsgYdThVLFXRjW-wIg0EsNzCzR8_w2TRvlzCc8B4fYS5vmZ5SR8ACr-Qoe-cfc2zlyYHQQIEoSM/s1600/Fuso%20Tronton%20Padang.png",
+      "link_mods":"https://www.mediafire.com/file/w37lyj4m1pvyf3t/ACC_TRONTON_LONG_BAK_PADANG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/16bdipslguor4ft/LIVERY_FUSO_TRONTON_LONG_3_BY_MEDIAN.png/file"      
+    },
+	{
+      "id": 98,
+      "category":"Truk",
+      "title":"Canter Keisya Berkah Rawit",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEindqft3V4EfSoakh1ofM_kQ35Cw0x5tDZTfJ_gDiIwo2YooDFjYHkW__K2SyOBzi4xXvN2-XgutqajlqLopPThC4Ts6j21ZkSjysTF8nxlhlq8n9ftK83uwSzZEIAE-w_JMTfpMd2OyXkGOprUbGo4kS4rqHqFBOPK0wSPuURfKzB7PsXlaiuET74/s1600/Canter%20Keisya%20Berkah%20Rawit.png",
+      "link_mods":"https://www.mediafire.com/file/dswaqtlb27sullg/CANTER.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/9f338xxaiub6yr8/Segitiga_DansuProject_%2528R_Tinggi%2529.png/file"      
+    },
+	{
+      "id": 97,
+      "category":"Truk",
+      "title":"Canter Muat Kayu Tambang",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvfnKYta8sIdwkllkDmmn7y7ColWAuMsH0R4Rpp_dV_Z6BLEg7NJ6FgTv_eHX5ggBN6Ps3nlBSrz4vki25KI0k8fL41tFeVBEkdhiOTnqjZwp2ixMHab5Zs1zrqLVF3JtG6ax_rAgAXR1esFakLrx_QtbmyMxOwXB8tJyqj3nDlCn_gACipXoL5Os/s1600/Canter%20Muat%20Kayu%20Tambang.png",
+      "link_mods":"https://www.mediafire.com/file/rwdwow26qaympad/New_Stevani_Kayu.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/rn79g7upgxm9548/livery_new_stevanie_fam8os_by_RG_DESIGN.png/file"      
+    }
+
+  ]
+}
