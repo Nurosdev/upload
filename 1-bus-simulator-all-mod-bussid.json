@@ -11,7 +11,7 @@
       "backup_ads_banner":"Banner_Android",
       "backup_ads_intertitial":"Interstitial_Android",
       "backup_ads_rewards":"Rewarded_Android",
-      "interval_intertitial": 3,
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"4828747",
       "survey_api_key":"",
